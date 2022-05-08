@@ -14,3 +14,7 @@
  ***
 ![lobofrontal](https://user-images.githubusercontent.com/92765377/167283478-f9597784-c0e1-4c39-88af-2196ca8fadde.png)
 [Clique aqui. Acesse meu Instagram](https://www.instagram.com/ti_sabs/)
+
+Num | Nome | Nota
+ ---|---|---
+ 1 | Gustavo | 10
