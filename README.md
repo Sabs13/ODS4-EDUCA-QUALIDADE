@@ -1,4 +1,4 @@
- ### ODS4 - EDUCA DE QUALIDADE ![lobofrontal](https://user-images.githubusercontent.com/92765377/167304548-eb47f036-2ea4-4ece-ba1a-af8a60272104.png)
+ ### ODS4 - EDUCA DE QUALIDADE ![lobofrontal](https://user-images.githubusercontent.com/92765377/167312233-0494bcbd-ca74-4a7d-b11e-1b62019aa1f6.png)
  ***
 - [ ] Meta 4.1 Até 2030, garantir que todas as meninas e meninos completem o ensino primário e secundário gratuito, equitativo e de qualidade, que conduza a resultados de aprendizagem relevantes e eficazes 🖖
 - [ ] Meta 4.2 Até 2030, garantir que todos as meninas e meninos tenham acesso a um desenvolvimento de qualidade na primeira infância, cuidados e educação pré-escolar, de modo que eles estejam prontos para o ensino primário 🧮
