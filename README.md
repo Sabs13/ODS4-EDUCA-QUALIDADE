@@ -1,5 +1,4 @@
- # ODS4-EDUCA-QUALIDADE
-Educação de qualidade para todos é o foco do Objetivo 4 da Agenda
+ ### ODS4 - EDUCA DE QUALIDADE ![lobofrontal](https://user-images.githubusercontent.com/92765377/167304548-eb47f036-2ea4-4ece-ba1a-af8a60272104.png)
  ***
 - [ ] Meta 4.1 Até 2030, garantir que todas as meninas e meninos completem o ensino primário e secundário gratuito, equitativo e de qualidade, que conduza a resultados de aprendizagem relevantes e eficazes 🖖
 - [ ] Meta 4.2 Até 2030, garantir que todos as meninas e meninos tenham acesso a um desenvolvimento de qualidade na primeira infância, cuidados e educação pré-escolar, de modo que eles estejam prontos para o ensino primário 🧮
@@ -12,7 +11,4 @@ Educação de qualidade para todos é o foco do Objetivo 4 da Agenda
 - [ ] Meta 4.b Até 2020, substancialmente ampliar globalmente o número de bolsas de estudo para os países em desenvolvimento, em particular os países menos desenvolvidos, pequenos Estados insulares em desenvolvimento e os países africanos, para o ensino superior, incluindo programas de formação profissional, de tecnologia da informação e da comunicação, técnicos, de engenharia e programas científicos em países desenvolvidos e outros países em desenvolvimento 🏹
 - [ ] Meta 4.c Até 2030, substancialmente aumentar o contingente de professores qualificados, inclusive por meio da cooperação internacional para a formação de professores, nos países em desenvolvimento, especialmente os países menos desenvolvidos e pequenos Estados insulares em desenvolvimento 🐛
  ***
-![lobofrontal](https://user-images.githubusercontent.com/92765377/167283478-f9597784-c0e1-4c39-88af-2196ca8fadde.png)
-
 [Clique aqui - Instagram](https://www.instagram.com/ti_sabs/)
-[Clique aqui - ]()
